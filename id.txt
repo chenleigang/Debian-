@@ -1,3 +1,7 @@
 id命令可以显示正在登录的id信息和id号
+
 假设用户名是user，它的id号是1000，
+
 那么id user命令和id 1000的命令是一样的
+
+cat /etc/passwd 显示所有用户和id等信息
