@@ -1,1 +1,2 @@
-demo
+sudo ifconfig 查看本机ip和其它信息
+hostname获取主机名称
